@@ -11,7 +11,7 @@
 * Install dependencies
   * `npm install --save sails-couchdb-orm`
   * `npm install --save url`
-* Edit "config/connections.js" with your CouchDB URL
+* Edit "[config/connections.js](https://github.com/sails101/couchdb-orm/blob/master/config/connections.js#L81)" with your CouchDB URL
 
 > Optionally: You can specify your CouchDB connection paramters in Environment Variables:
 
