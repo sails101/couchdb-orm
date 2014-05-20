@@ -1,6 +1,6 @@
-# Sails 101: CouchDB ORM for Sails.js
+# How do I use CouchDB as my ORM Adapter?
 
-## How do I use the CouchDB ORM for Sails.js?
+> Sails 101: CouchDB ORM for Sails.js, or "How do I use the CouchDB ORM for Sails.js?"
 
 ### PreRequisites
 * Install CouchDB
