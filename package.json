@@ -1,8 +1,7 @@
 {
-  "name": "couchdb-adapter",
-  "private": true,
+  "name": "sails101-couchdb-adapter",
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": "How do I use CouchDB as my database adapter?",
   "keywords": [],
   "dependencies": {
     "sails": "~0.10.0-rc7",
@@ -31,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikehostetler/couchdb-orm/.git"
+    "url": "git://github.com/sails101/couchdb-orm/.git"
   },
   "author": "mikehostetler",
-  "license": ""
+  "license": "MIT"
 }
